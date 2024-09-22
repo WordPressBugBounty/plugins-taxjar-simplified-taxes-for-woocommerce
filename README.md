@@ -1,0 +1,1 @@
+# plugins-taxjar-simplified-taxes-for-woocommerce
